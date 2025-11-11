@@ -1,2 +1,1 @@
-# Programaci-
-HOLA 67
+print("Hello world")
